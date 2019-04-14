@@ -4,7 +4,7 @@
   max-width: 960px;
   margin: 0 auto;
   padding:5px 5px 0px;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 5px 5px 5px grey;
 }
 * {
   box-sizing: border-box;
@@ -29,7 +29,7 @@ body {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  box-shadow: 10px 10px 5px grey;
+   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.19);
   
   
 }
